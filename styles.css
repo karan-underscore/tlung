@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color:black;
+  
+}
+
+.overview{
+  margin-left: 50px;
+  text-align: left;
+  color: white;
+  padding-bottom: 130px;
+}
+
+.rel_others{
+  margin-left: 50px;
+  text-align: left;
+  color: white;
+  padding-bottom: 130px;
+}
+
+.quiz{
+  margin-left: 50px;
+  text-align: left;
+  color: white;
+  padding-bottom: 130px;
+}
+
+.disclaimer{
+  font-size: 10px;
+}
+
+p.header{
+  display: inline;
+}
+
+p.header{
+  display:block;
+}
+
+.header {
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+h1.header_title{
+  padding: 20px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  text-align: left;
+}
+
+.hamburger_menu{
+  float: right;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.header_title{
+  margin-left: 50px;
+}
+
+.home_images{
+  padding: 0px;
+  margin-bottom: 50px;
+  overflow: hidden; /* Clear the float */
+  position: relative; 
+  color: white;
+  
+}
+
+
+
+.footer {
+  color: white;
+  background-color:black;
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+p.homescreen_img {
+  text-align: center;
+  font-size: 30px;
+}
+
+.watch_now{
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.neg_padding{
+  padding-top: -50px;
+}
